@@ -37,4 +37,21 @@ Attrition by years at company
 
 😊 Job Satisfaction Analysis
 
-Satisfaction score breakdown across roles
+
+# Tools & Technologies
+
+ Microsoft Power BI
+
+ Microsoft Excel / CSV Dataset
+
+ Data Cleaning & Transformation (Power Query)
+
+ Data Modeling (DAX)
+
+# Insights & Findings
+
+ Higher attrition observed in mid-level salary employees
+ Life Sciences & Medical fields show higher employee turnover
+ Laboratory Technicians have the highest attrition rate
+ Attrition decreases with increase in experience (Years at Company)
+ Employees aged 26–35 show higher attrition
