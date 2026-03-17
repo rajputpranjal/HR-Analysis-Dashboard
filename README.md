@@ -15,19 +15,23 @@ Attrition Count: 237
 
 Attrition Rate: 16.09%
 
+
 💰 Salary & Income Analysis
 
 Total Monthly Income: 10M
 
 Attrition by Salary Slab
 
+
 🎓 Education-Based Attrition
 
 Life Sciences, Medical, Marketing, Technical Degree insights
 
+
 👨‍💼 Job Role Analysis
 
 Highest attrition in Laboratory Technicians & Sales roles
+
 
 📊 Age & Experience Insights
 
@@ -35,8 +39,10 @@ Attrition trends by age group
 
 Attrition by years at company
 
+
 😊 Job Satisfaction Analysis
 
+Satisfaction score breakdown across roles
 
 # Tools & Technologies
 
@@ -51,7 +57,21 @@ Attrition by years at company
 # Insights & Findings
 
  Higher attrition observed in mid-level salary employees
+ 
  Life Sciences & Medical fields show higher employee turnover
+ 
  Laboratory Technicians have the highest attrition rate
+ 
  Attrition decreases with increase in experience (Years at Company)
+ 
  Employees aged 26–35 show higher attrition
+
+ # Business Use Cases
+
+Improve employee retention strategies
+
+Identify high-risk attrition segments
+
+Optimize salary and job satisfaction
+
+Support HR decision-making
